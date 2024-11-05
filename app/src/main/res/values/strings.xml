@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TK6</string>
+    <string name="my_input" />
+    <string name="subtype_en_US" />
+    <string name="subtype_label" />
+    <string name="ime_name" />
+</resources>
+
